@@ -1,4 +1,4 @@
-# BringItBack-Scratch-Nav-Bar-
+# BringItBack (Scratch Navigation Bar)
 This can change the "tips" link in Scratch's navigation bar to a link to the discussion forums (how it was before July 5th).
 It is designed to work in Google Chrome, as an extension.  At least as far as I know, it does not work in other browsers.
 
