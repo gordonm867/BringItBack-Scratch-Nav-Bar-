@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "Scratch Pre-July 5th Navigation Bar",
+  "name": "#BringItBack",
   "description": "This extension changes the Scratch (scratch.mit.edu) navigation bar back to its state before July 5th (it replaces the link to the tips page with the link to the discussion forums)",
   "version": "1.0",
 
